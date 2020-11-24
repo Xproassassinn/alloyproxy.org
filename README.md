@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/titaniumnetwork-dev/alloyproxy.org)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/titaniumnetwork-dev/alloyproxy.org)
+
 # alloyproxy.org
 An easy Alloy instance to deploy to Heroku, any online IDE, or hosting it yourself.
 
